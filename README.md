@@ -13,7 +13,6 @@ I leverage data-driven insights and financial modeling to solve complex business
 
 ### 📂 Selected Work
 
-* **[Personal Portfolio](https://www.google.com/search?q=%23) —** An exploration of my background, technical skills, and professional projects.
 * **Machine Learning Coursework —** Predictive analytics experiments utilizing supervised learning, KNN models, K-means clustering, and PCA in Python.
 * **Ledger & Lift —** A personal finance app concept focused on making complex money decisions intuitive and accessible.
 * **Energy Market Research —** Comprehensive international market mapping, tender analysis, and multilingual business materials for the energy sector.
@@ -28,5 +27,5 @@ I leverage data-driven insights and financial modeling to solve complex business
 
 I'm always open to discussing opportunities where international business, energy, finance, and data intersect.
 
-* **[LinkedIn](https://www.google.com/search?q=%23)**
-* **[My Portfolio](https://www.google.com/search?q=%23)**
+* **[LinkedIn](www.linkedin.com/in/edwin-ruibin-jin-yao-a6b050239)**
+* **[My Portfolio](https://ruibinray.github.io/)**
