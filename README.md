@@ -1,32 +1,32 @@
 # Hi, I’m Ray 👋
 
-I’m a Finance and Business Analytics student at Hult International Business School, based in Boston. I’m interested in how finance, data, and technology can make business decisions clearer and more useful.
+**Finance & Business Analytics at Hult International Business School | Boston, MA**
 
-My experience spans e-commerce strategy in Costa Rica and international business development in energy storage in China. I enjoy working across markets and languages, and turning research or analysis into something people can act on.
+I leverage data-driven insights and financial modeling to solve complex business challenges. With a background spanning e-commerce strategy in Costa Rica to international business development for long-duration energy storage (VRFBs) in China, I thrive at the intersection of analytics, cross-border markets, and actionable strategy.
 
-## What I’m exploring
+### 🚀 What I'm Exploring & Building
 
-- **Finance and business:** financial analysis, pricing, market research, and strategy
-- **Data and technology:** Python, SQL, analytics, machine learning, and automation
-- **Energy:** international markets and long-duration energy storage
-- **Useful products:** clear, thoughtful tools for everyday decisions
+* **Finance & Strategy:** Financial modeling, pricing strategy, market research, and international business development.
+* **Data & Technology:** Python (Pandas, scikit-learn), SQL, machine learning, predictive analytics, and workflow automation.
+* **Energy Markets:** International market mapping, tender analysis, and long-duration energy storage (LDES) trends.
+* **Useful Products:** Designing clear, thoughtful tools and dashboards that simplify everyday financial and business decisions.
 
-## Selected work
+### 📂 Selected Work
 
-- **Personal portfolio** — [Explore my background and projects](https://ruibinray.github.io/)
-- **Machine learning coursework** — experiments with supervised learning, K-means, and PCA using Python
-- **Ledger & Lift** — a personal finance app concept focused on making money decisions easier to understand
-- **Energy market research** — international market mapping, tender analysis, and multilingual business materials
+* **[Personal Portfolio](https://www.google.com/search?q=%23) —** An exploration of my background, technical skills, and professional projects.
+* **Machine Learning Coursework —** Predictive analytics experiments utilizing supervised learning, KNN models, K-means clustering, and PCA in Python.
+* **Ledger & Lift —** A personal finance app concept focused on making complex money decisions intuitive and accessible.
+* **Energy Market Research —** Comprehensive international market mapping, tender analysis, and multilingual business materials for the energy sector.
 
-## A little more about me
+### 🌍 A Little More About Me
 
-- Costa Rican and Chinese; based in Boston
-- I speak English, Spanish, and Mandarin
-- Outside work: basketball, music production, songwriting, cooking, and film
+* **Global Perspective:** Proudly Costa Rican and Chinese. Fluent in English, Spanish, and Mandarin.
+* **Current Base:** East Boston, MA.
+* **Off the Clock:** You can find me playing basketball, producing music, songwriting, cooking, watching film, or playing video games.
 
-## Let’s connect
+### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/edwin-ruibin-jin-yao-a6b050239)
-- [My portfolio](https://ruibinray.github.io/)
+I'm always open to discussing opportunities where international business, energy, finance, and data intersect.
 
-I’m interested in opportunities where international business, energy, finance, and analytics meet.
+* **[LinkedIn](https://www.google.com/search?q=%23)**
+* **[My Portfolio](https://www.google.com/search?q=%23)**
